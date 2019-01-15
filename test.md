@@ -1,7 +1,7 @@
 test.R
 ================
 VandewS8
-Wed Jan 16 00:00:41 2019
+Wed Jan 16 00:02:59 2019
 
 ``` r
 .libPaths()
